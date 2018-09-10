@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="gtvg:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="gtvg-ci.war">
+      <element id="artifact" artifact-name="gtvg:war exploded" />
+    </root>
+  </artifact>
+</component>
